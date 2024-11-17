@@ -1,0 +1,2 @@
+IMG_NAME="DwelloBookworm"    # Name for your custom image
+RELEASE="bookworm"           # Debian Bookworm as the base OS
